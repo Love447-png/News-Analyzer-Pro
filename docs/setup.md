@@ -5,7 +5,7 @@
 - Git
 
 ### 2. API Keys Setup
-You'll need API keys from:
+We'll need API keys from:
 - [OpenAI](https://platform.openai.com/api-keys)
 - [Hugging Face](https://huggingface.co/settings/tokens)
 
