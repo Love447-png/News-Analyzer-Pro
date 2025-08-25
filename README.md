@@ -4,6 +4,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/Love447-png/news-analyzer-pro.svg)](https://github.com/Love447-png/news-analyzer-pro/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Love447-png/news-analyzer-pro.svg)](https://github.com/Love447-png/news-analyzer-pro/network)
 
+Website Link to check - https://claude.ai/public/artifacts/6a161307-bf64-4859-8d99-368871b9c52c
+
 **Advanced News Summarization & Bias Detection Tool**
 
 A sophisticated web application that analyzes news articles for bias, sentiment, and credibility using state-of-the-art AI models. Built with modern web technologies and integrated with OpenAI GPT and Hugging Face Transformers.
@@ -27,3 +29,4 @@ A sophisticated web application that analyzes news articles for bias, sentiment,
 - Node.js 14+
 - OpenAI API key
 - Hugging Face API key
+  
