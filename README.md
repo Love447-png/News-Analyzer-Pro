@@ -10,8 +10,6 @@ Website Link to check - https://claude.ai/public/artifacts/6a161307-bf64-4859-8d
 
 A sophisticated web application that analyzes news articles for bias, sentiment, and credibility using state-of-the-art AI models. Built with modern web technologies and integrated with OpenAI GPT and Hugging Face Transformers.
 
-![News Analyzer Pro Screenshot](assets/images/screenshots/main-interface.png)
-
 ## ✨ Features
 
 - 📰 **Multi-Source Analysis** - URL, text, and multi-source input support
